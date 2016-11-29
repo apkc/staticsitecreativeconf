@@ -1,0 +1,111 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="avishkarpratapkc.com" resolutions="1x" timestamp="1480399694459">
+  <folder name="css">
+    <file name="site_global.css" crc="175197707"/>
+    <file name="master_a-master.css" crc="249595922" ref="index"/>
+    <file name="index.css" crc="4155897930" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="creative_conf_logo.svg" crc="3865831609" seo="true" ref="index"/>
+    <file name="creative_conf_logo_poster_.png" crc="41774825" ref="index"/>
+    <file name="nyc-u302-fr.png" crc="4074683898" ref="index"/>
+    <file name="u539-4.png" crc="306708717" ref="index"/>
+    <file name="u519-5.png" crc="4041175377" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u547_states.png" crc="4065350054" ref="index"/>
+    <file name="u547_states-r.png" crc="4065350054" ref="index"/>
+    <file name="u1072-4.png" crc="3847994693" ref="index"/>
+    <file name="u559-4.png" crc="120289600" ref="index"/>
+    <file name="avishkar pratap kc.jpg" crc="328931701" seo="true" ref="index"/>
+    <file name="jimmy.jpg" crc="3857765750" seo="true" ref="index"/>
+    <file name="jon.jpg" crc="3908816795" seo="true" ref="index"/>
+    <file name="mallory.jpg" crc="414095230" seo="true" ref="index"/>
+    <file name="u564-4.png" crc="411499577" ref="index"/>
+    <file name="u578-4.png" crc="402189661" ref="index"/>
+    <file name="u569-4.png" crc="239883535" ref="index"/>
+    <file name="u584-4.png" crc="3791332294" ref="index"/>
+    <file name="ryan.jpg" crc="4192706039" seo="true" ref="index"/>
+    <file name="sara.jpg" crc="536811090" seo="true" ref="index"/>
+    <file name="sean.jpg" crc="4227224988" seo="true" ref="index"/>
+    <file name="stephanie.jpg" crc="4235823367" seo="true" ref="index"/>
+    <file name="u587-4.png" crc="402784248" ref="index"/>
+    <file name="u590-4.png" crc="4121486609" ref="index"/>
+    <file name="u599-4.png" crc="4147516692" ref="index"/>
+    <file name="u593-4.png" crc="284073494" ref="index"/>
+    <file name="u892-4.png" crc="3811454585" ref="index"/>
+    <file name="u614.png" crc="266247000" ref="index"/>
+    <file name="u614-r.png" crc="4113934359" ref="index"/>
+    <file name="u614-m.png" crc="266247000" ref="index"/>
+    <file name="u614-a.png" crc="266247000" ref="index"/>
+    <file name="u610.png" crc="290691087" ref="index"/>
+    <file name="u610-r.png" crc="3880356516" ref="index"/>
+    <file name="u610-m.png" crc="290691087" ref="index"/>
+    <file name="u610-a.png" crc="408097474" ref="index"/>
+    <file name="u604.png" crc="419546928" ref="index"/>
+    <file name="u604-r.png" crc="417581211" ref="index"/>
+    <file name="u604-m.png" crc="419546928" ref="index"/>
+    <file name="u604-a.png" crc="400468708" ref="index"/>
+    <file name="u685.png" crc="180540674" ref="index"/>
+    <file name="u685-r.png" crc="210400268" ref="index"/>
+    <file name="u685-m.png" crc="180540674" ref="index"/>
+    <file name="u685-a.png" crc="482848346" ref="index"/>
+    <file name="u701.png" crc="123873628" ref="index"/>
+    <file name="u701-r.png" crc="155082696" ref="index"/>
+    <file name="u701-m.png" crc="123873628" ref="index"/>
+    <file name="u701-a.png" crc="114440709" ref="index"/>
+    <file name="u712.png" crc="4075863884" ref="index"/>
+    <file name="u712-r.png" crc="481837461" ref="index"/>
+    <file name="u712-m.png" crc="4075863884" ref="index"/>
+    <file name="u712-a.png" crc="3780770898" ref="index"/>
+    <file name="u724.png" crc="406280388" ref="index"/>
+    <file name="u724-r.png" crc="103903694" ref="index"/>
+    <file name="u724-m.png" crc="406280388" ref="index"/>
+    <file name="u724-a.png" crc="3800295593" ref="index"/>
+    <file name="u737.png" crc="4010248506" ref="index"/>
+    <file name="u737-r.png" crc="4020640275" ref="index"/>
+    <file name="u737-m.png" crc="4010248506" ref="index"/>
+    <file name="u737-a.png" crc="133020869" ref="index"/>
+    <file name="u749.png" crc="312676075" ref="index"/>
+    <file name="u749-r.png" crc="57341774" ref="index"/>
+    <file name="u749-m.png" crc="312676075" ref="index"/>
+    <file name="u749-a.png" crc="4150495228" ref="index"/>
+    <file name="u760.png" crc="228281392" ref="index"/>
+    <file name="u760-r.png" crc="4288597053" ref="index"/>
+    <file name="u760-m.png" crc="228281392" ref="index"/>
+    <file name="u760-a.png" crc="230086086" ref="index"/>
+    <file name="u772.png" crc="4122360938" ref="index"/>
+    <file name="u772-r.png" crc="195290268" ref="index"/>
+    <file name="u772-m.png" crc="4122360938" ref="index"/>
+    <file name="u772-a.png" crc="4205074635" ref="index"/>
+    <file name="u784.png" crc="60024388" ref="index"/>
+    <file name="u784-r.png" crc="3774597716" ref="index"/>
+    <file name="u784-m.png" crc="60024388" ref="index"/>
+    <file name="u784-a.png" crc="4117326916" ref="index"/>
+    <file name="nyc_02-u500-fr.png" crc="60550084" ref="index"/>
+    <file name="u1052-4.png" crc="508725466" ref="index"/>
+    <file name="u516-7.png" crc="4233707187" ref="index"/>
+    <file name="u917_states.png" crc="3949076336" ref="index"/>
+    <file name="u917_states-r.png" crc="3949076336" ref="index"/>
+    <file name="u905-4.png" crc="4155341689" ref="index"/>
+    <file name="u1036_states.png" crc="307659633" ref="index"/>
+    <file name="u1036_states-r.png" crc="307659633" ref="index"/>
+    <file name="u929_states.png" crc="307659633" ref="index"/>
+    <file name="u929_states-r.png" crc="307659633" ref="index"/>
+    <file name="u1000_states.png" crc="307659633" ref="index"/>
+    <file name="u1000_states-r.png" crc="307659633" ref="index"/>
+    <file name="u1044-9.png" crc="60409351" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3867385759" seo="true" mt="1480399692159" redirect="true"/>
+</manifest>
